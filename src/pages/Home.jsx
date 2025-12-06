@@ -23,8 +23,8 @@ export default function Home() {
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
             <FeatureCard
               icon={FaCogs}
-              title="低门槛DIY"
-              description="无需复杂编程，图形化配置工具，1天即可完成硬件适配与功能调试。"
+              title="低门槛"
+              description="无需复杂编程，图形化配置工具，数小时即可完成硬件适配与功能调试。"
               ctaText="下载配置工具"
               ctaLink="/docs/tools"
             />
