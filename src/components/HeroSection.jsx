@@ -7,7 +7,7 @@ export default function HeroSection({
   ctaLink, 
   secondaryCtaText, 
   secondaryCtaLink,
-  backgroundImage = '/images/hero-bg.png'
+  backgroundImage = '/images/hero-bg.jpg'
 }) {
   return (
     <section className="relative pt-24 pb-16 md:pt-32 md:pb-24">

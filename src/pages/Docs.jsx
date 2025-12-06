@@ -9,7 +9,7 @@ export default function Docs() {
         subtitle="从入门到精通，全面了解辰龙OS 的使用与开发。"
         ctaText="下载完整文档"
         ctaLink="/docs/chenlongos-docs.pdf"
-        backgroundImage="/images/hero-bg.png"
+        backgroundImage="/images/hero-bg.jpg"
       />
 
       <section className="py-16">
