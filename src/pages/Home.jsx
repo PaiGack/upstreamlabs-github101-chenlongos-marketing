@@ -82,7 +82,7 @@ export default function Home() {
               <SceneCard
                 title="操作系统教学"
                 description="深入学习系统原理、进程调度、内存管理等核心概念，配套实验平台加深理解。"
-                imageUrl="images/classroom.jpg"
+                imageUrl="images/classroom2.jpg"
                 link="/education"
               />
               <SceneCard

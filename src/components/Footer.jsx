@@ -8,7 +8,7 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           <div>
             <h3 className="text-primary text-xl font-bold mb-4">辰龙OS</h3>
-            <p className="text-gray-600 mb-4">100%国产化嵌入式操作系统，让智能硬件开发更简单。</p>
+            <p className="text-gray-600 mb-4">100%国产化操作系统，让智能硬件开发更简单。</p>
             <div className="flex space-x-4">
               <a href="https://github.com/chenlongos" target="_blank" rel="noopener noreferrer" className="text-gray-500 hover:text-primary">
                 <FaGithub size={20} />

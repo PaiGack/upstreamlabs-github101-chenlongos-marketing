@@ -150,7 +150,7 @@ export default function Developer() {
 
       <CTASection
         title="加入辰龙OS 开发者生态"
-        subtitle="一起打造更强大、更易用的国产化嵌入式操作系统。"
+        subtitle="一起打造更强大、更易用的国产化操作系统。"
         ctaText="Star on GitHub"
         ctaLink="https://github.com/chenlongos"
         secondaryCtaText="加入交流群"
