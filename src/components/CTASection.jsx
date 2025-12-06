@@ -44,7 +44,7 @@ const CTASection = () => {
     <div style={styles.container}>
       <h2 style={styles.title}>企业版专属服务</h2>
       <p style={styles.desc}>
-        解锁更多高级功能，定制化解决方案，7×24小时技术支持，助力企业高效发展
+        定制化解决方案，7×24小时技术支持，助力企业高效发展
       </p>
       {/* 可替换为你的跳转链接（比如企业版详情页） */}
       <button

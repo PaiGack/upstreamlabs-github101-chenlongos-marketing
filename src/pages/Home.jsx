@@ -53,7 +53,7 @@ export default function Home() {
           {/* 企业用户卡片 */}
           <div className="mb-12">
             <h3 className="text-2xl font-bold mb-6 text-center">企业用户</h3>
-            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">
+            <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-8">
               <SceneCard
                 title="仓储物流"
                 description="自动路径规划、货物识别、低功耗运行，提升仓储作业效率。"
@@ -78,7 +78,7 @@ export default function Home() {
           {/* 高校用户卡片 */}
           <div className="mb-12">
             <h3 className="text-2xl font-bold mb-6 text-center">高校用户</h3>
-            <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
+            <div className="grid grid-cols-1 sm:grid-cols-2 gap-8">
               <SceneCard
                 title="操作系统教学"
                 description="深入学习系统原理、进程调度、内存管理等核心概念，配套实验平台加深理解。"
