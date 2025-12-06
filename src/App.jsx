@@ -9,8 +9,11 @@ import Docs from './pages/Docs';
 import Contact from './pages/Contact';
 
 function App() {
+  // 获取 basename，用于 GitHub Pages 部署
+  const basename = import.meta.env.BASE_URL;
+
   return (
-    <Router>
+    <Router basename={basename}>
       <Navbar />
       <main className="pt-16"> {/* 为固定导航栏预留空间 */}
         <Routes>
