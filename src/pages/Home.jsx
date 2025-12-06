@@ -14,7 +14,7 @@ export default function Home() {
         ctaLink="/contact"
         secondaryCtaText="查看技术文档"
         secondaryCtaLink="/docs"
-        backgroundImage="/images/hero-bg.jpg"
+        backgroundImage="images/hero-bg.jpg"
       />
 
       <section className="py-16 bg-gray-50">
@@ -57,13 +57,13 @@ export default function Home() {
               <SceneCard
                 title="仓储物流"
                 description="自动路径规划、货物识别、低功耗运行，提升仓储作业效率。"
-                imageUrl="/images/warehouse-robot.jpg"
+                imageUrl="images/warehouse-robot.jpg"
                 link="/enterprise#warehouse"
               />
               <SceneCard
                 title="体育智能"
                 description="精准识别、自动拾取、自主归位，解放人工劳动力。"
-                imageUrl="/images/sports-robot.jpg"
+                imageUrl="images/sports-robot.jpg"
                 link="/enterprise#sports"
               />
             </div>
@@ -76,7 +76,7 @@ export default function Home() {
               <SceneCard
                 title="嵌入式教学"
                 description="实训套件+课程资源+竞赛支持，助力学生从理论到实践。"
-                imageUrl="/images/classroom.jpg"
+                imageUrl="images/classroom.jpg"
                 link="/education"
               />
             </div>
@@ -89,7 +89,7 @@ export default function Home() {
               <SceneCard
                 title="DIY 共创"
                 description="开源SDK、示例项目、技术交流群，一起打造创新应用。"
-                imageUrl="/images/developer.jpg"
+                imageUrl="images/developer.jpg"
                 link="/developer"
               />
             </div>

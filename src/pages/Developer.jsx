@@ -13,7 +13,7 @@ export default function Developer() {
         ctaLink="https://discord.gg/chenlongos"
         secondaryCtaText="Star on GitHub"
         secondaryCtaLink="https://github.com/chenlongos"
-        backgroundImage="/images/developer.jpg"
+        backgroundImage="images/developer.jpg"
       />
 
       <section className="py-16 bg-gray-50">

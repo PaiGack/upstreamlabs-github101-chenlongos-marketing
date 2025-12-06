@@ -13,7 +13,7 @@ export default function Education() {
         ctaLink="/contact"
         secondaryCtaText="下载教学大纲"
         secondaryCtaLink="/docs/education-syllabus.pdf"
-        backgroundImage="/images/classroom.jpg"
+        backgroundImage="images/classroom.jpg"
       />
 
       <section className="py-16 bg-gray-50">
@@ -58,7 +58,7 @@ export default function Education() {
           <div className="flex flex-col md:flex-row gap-12 items-center">
             <div className="md:w-1/2">
               <img 
-                src="/images/classroom.jpg" 
+                src="images/classroom.jpg" 
                 alt="高校实训场景" 
                 className="rounded-xl shadow-lg w-full"
               />

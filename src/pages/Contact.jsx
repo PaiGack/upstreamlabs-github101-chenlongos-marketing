@@ -46,7 +46,7 @@ export default function Contact() {
       <HeroSection
         title="申请免费技术对接"
         subtitle="填写下方表单，我们将安排专业工程师为你提供1对1咨询服务。"
-        backgroundImage="/images/contact-hero.jpg"
+        backgroundImage="images/contact-hero.jpg"
       />
 
       <section className="py-16">

@@ -13,7 +13,7 @@ export default function Enterprise() {
         ctaLink="/contact"
         secondaryCtaText="下载解决方案白皮书"
         secondaryCtaLink="/docs/enterprise-whitepaper.pdf"
-        backgroundImage="/images/enterprise-hero.jpg"
+        backgroundImage="images/enterprise-hero.jpg"
       />
 
       <section className="py-16 bg-gray-50">
@@ -62,7 +62,7 @@ export default function Enterprise() {
             <div className="flex flex-col md:flex-row gap-8 items-center">
               <div className="md:w-1/2">
                 <img 
-                  src="/images/warehouse-robot.jpg" 
+                  src="images/warehouse-robot.jpg" 
                   alt="仓储机器人" 
                   className="rounded-xl shadow-lg w-full"
                 />
@@ -108,7 +108,7 @@ export default function Enterprise() {
             <div className="flex flex-col md:flex-row gap-8 items-center">
               <div className="md:w-1/2">
                 <img 
-                  src="/images/sports-robot.jpg" 
+                  src="images/sports-robot.jpg" 
                   alt="体育智能设备" 
                   className="rounded-xl shadow-lg w-full"
                 />
