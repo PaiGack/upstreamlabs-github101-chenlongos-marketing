@@ -10,4 +10,5 @@ export default defineConfig({
   build: {
     outDir: 'dist',
   },
+  base: process.env.NODE_ENV === 'production' ? '/upstreamlabs-github101-chenlongos-marketing/' : '/',
 })
