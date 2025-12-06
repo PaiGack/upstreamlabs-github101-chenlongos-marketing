@@ -126,7 +126,7 @@ export default function Developer() {
                 <FaQuestionCircle className="text-primary mr-2" />
                 辰龙OS 支持哪些硬件平台？
               </h3>
-              <p className="text-gray-600">目前已正式支持 RK3588、树莓派 4B/CM4、ESP32-S3 等平台。更多平台正在适配中，欢迎在 GitHub 提交需求。</p>
+              <p className="text-gray-600">目前已正式支持 RK3588、树莓派 4B/CM4、飞腾派 等平台。更多平台正在适配中，欢迎在 GitHub 提交需求。</p>
             </div>
 
             <div className="bg-white p-6 rounded-lg shadow-sm">

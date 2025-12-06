@@ -13,7 +13,7 @@ export default function Enterprise() {
         ctaLink="/contact"
         secondaryCtaText="下载解决方案白皮书"
         secondaryCtaLink="/docs/enterprise-whitepaper.pdf"
-        backgroundImage="/images/enterprise-hero.jpg"
+        backgroundImage="/images/enterprise-hero.png"
       />
 
       <section className="py-16 bg-gray-50">
