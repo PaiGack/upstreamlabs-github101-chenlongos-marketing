@@ -46,7 +46,7 @@ export default function Enterprise() {
               title="数据安全"
               description="本地数据存储、加密传输、权限管控，符合等保2.0要求。"
               ctaText="安全白皮书"
-              ctaLink="/docs/security-whitepaper.pdf"
+              ctaLink="#security-whitepaper.pdf"
             />
           </div>
         </div>
@@ -106,14 +106,14 @@ export default function Enterprise() {
           <div id="sports" className="scroll-mt-24">
             <h3 className="text-2xl font-bold mb-6 text-primary">体育智能场景</h3>
             <div className="flex flex-col md:flex-row gap-8 items-center">
-              <div className="md:w-1/2">
+              <div className="md:w-1/2 md:order-2">
                 <img 
                   src="images/sports-robot.jpg" 
                   alt="体育智能设备" 
                   className="rounded-xl shadow-lg w-full"
                 />
               </div>
-              <div className="md:w-1/2">
+              <div className="md:w-1/2 md:order-1">
                 <h4 className="text-xl font-semibold mb-4">核心功能</h4>
                 <ul className="space-y-2 text-gray-600">
                   <li className="flex items-start">
