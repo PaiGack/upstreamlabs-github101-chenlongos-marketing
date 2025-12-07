@@ -5,7 +5,7 @@ export default function Footer() {
   return (
     <footer className="bg-gray-100 py-10">
       <div className="container mx-auto px-4">
-        <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
+        <div className="grid grid-cols-1 md:grid-cols-5 gap-8">
           <div>
             <h3 className="text-primary text-xl font-bold mb-4">辰龙OS</h3>
             <p className="text-gray-600 mb-4">100%国产化操作系统，让智能硬件开发更简单。</p>
@@ -23,6 +23,11 @@ export default function Footer() {
             <ul className="space-y-2">
               <li><Link to="/enterprise" className="text-gray-600 hover:text-primary">企业解决方案</Link></li>
               <li><Link to="/education" className="text-gray-600 hover:text-primary">高校合作计划</Link></li>
+            </ul>
+          </div>
+          <div>
+            <h4 className="font-bold mb-4">开发者</h4>
+            <ul className="space-y-2">
               <li><Link to="/developer" className="text-gray-600 hover:text-primary">开发者社区</Link></li>
               <li><Link to="/docs" className="text-gray-600 hover:text-primary">技术文档</Link></li>
             </ul>
