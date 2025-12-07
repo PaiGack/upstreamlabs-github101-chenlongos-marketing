@@ -29,16 +29,16 @@ export default function Footer() {
             <h4 className="font-bold mb-4">开发者</h4>
             <ul className="space-y-2">
               <li><Link to="/developer" className="text-gray-600 hover:text-primary">开发者社区</Link></li>
-              <li><Link to="/docs" className="text-gray-600 hover:text-primary">技术文档</Link></li>
+              <li><Link to="https://docs.chenlongos.cn/" className="text-gray-600 hover:text-primary">技术文档</Link></li>
             </ul>
           </div>
           <div>
             <h4 className="font-bold mb-4">资源</h4>
             <ul className="space-y-2">
               <li><a href="/docs" className="text-gray-600 hover:text-primary">API 参考</a></li>
-              <li><a href="/docs/tutorials" className="text-gray-600 hover:text-primary">快速开始</a></li>
-              <li><a href="/docs/examples" className="text-gray-600 hover:text-primary">示例项目</a></li>
-              <li><a href="/blog" className="text-gray-600 hover:text-primary">技术博客</a></li>
+              <li><a href="https://opencamp.cn/ChenLongOS/camp/ai-stack" className="text-gray-600 hover:text-primary">快速开始</a></li>
+              <li><a href="https://opencamp.cn/ChenLongOS/camp/ai-stack" className="text-gray-600 hover:text-primary">示例项目</a></li>
+              <li><a href="https://docs.chenlongos.cn/#blogs" className="text-gray-600 hover:text-primary">技术博客</a></li>
             </ul>
           </div>
           <div>
@@ -46,7 +46,7 @@ export default function Footer() {
             <ul className="space-y-2">
               <li className="flex items-center">
                 <FaEnvelope className="mr-2 text-gray-500" size={16} />
-                <a href="mailto:contact@chenlongos.com" className="text-gray-600 hover:text-primary">contact@chenlongos.com</a>
+                <a href="mailto:contact@chenlongos.com" className="text-gray-600 hover:text-primary">contact@chenlongos.cn</a>
               </li>
               <li className="flex items-center">
                 <FaPhone className="mr-2 text-gray-500" size={16} />
